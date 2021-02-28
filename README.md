@@ -1,3 +1,2 @@
 # angular-ivy-raxgov
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-raxgov)
+Angular で クリック連打防止ディレクティブ のサンプルです
